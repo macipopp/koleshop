@@ -32,7 +32,7 @@
           }
         }
       ],
-      "api_key": [{ "current_key": "" }],
+      "api_key": [{ "current_key": "AIzaSyBocdLk9PZhCvaTjT4oJJ8y-1gq-sd-BoA" }],
       "services": {
         "analytics_service": {
           "status": 1
@@ -57,3 +57,5 @@
   "client_info": [],
   "ARTIFACT_VERSION": "1"
 }
+
+
